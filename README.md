@@ -1,6 +1,10 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/fredericjulian)
+
 # Heimdall - Simple and powerful parental control software
 
 Heimdall Parental Control helps you to protect your children by securing his phone and add restrictions.
+
+<a href='https://play.google.com/store/apps/details?id=net.frju.heimdall&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 ### Features
 
