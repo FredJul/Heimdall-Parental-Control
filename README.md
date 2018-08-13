@@ -5,6 +5,7 @@
 Heimdall Parental Control helps you to protect your children by securing his phone and add restrictions.
 
 More info on Play Store:
+
 <a href='https://play.google.com/store/apps/details?id=net.frju.heimdall'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 ### Security
